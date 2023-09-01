@@ -1,4 +1,4 @@
-Hi 👋 My name is Vasili Balov
+Hi 👋 My name is Vasiliy Balov
 =============================
 
 I'm a Hexlet student deeply immersed in the world of Frontend development, striving for continuous improvement. My commitment to quality and ongoing learning enables me to make valuable contributions to web projects. 🚀 My Advantages: 🎓 Hexlet Education: My learning journey at Hexlet encompasses the most modern and cutting-edge approaches to Frontend development. I possess a profound understanding of HTML, CSS, and JavaScript concepts, actively applying them in practice. 🤝 Team Collaboration: I value collective participation and collaboration. My ability to communicate effectively and work harmoniously with fellow team members aids in achieving objectives and creating outstanding projects. 🌟 Pursuit of Excellence: I'm continuously exploring new technologies and methodologies to stay abreast of the latest Frontend development trends. My drive for self-improvement propels me towards producing high-quality code.
